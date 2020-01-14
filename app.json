@@ -25,6 +25,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "ReactNative-FirstProject",
+    "githubUrl": "https://github.com/DarinDev1000/ReactNative-FirstProject"
   }
 }
